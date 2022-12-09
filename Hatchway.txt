@@ -4,4 +4,6 @@
 4. Cp MockExercise3.css /Users/tonyE/Desktop/hw/HawtchwayExercise
 5. Cp MockeExercise3.html /Users/tonyE/Desktop/hw/HawtchwayExercise
 6. Git status
-7. 
+7. Git add .
+8. Git commit -m "new files"
+9.
