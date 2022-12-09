@@ -6,4 +6,8 @@
 6. Git status
 7. Git add .
 8. Git commit -m "new files"
-9.
+9. Git status
+10. Create a new repository GitHub
+11. git remote add origin https://github.com/TonyE20/HatchP1.git
+12. Git branch -M main
+13. Git push - u origin main
