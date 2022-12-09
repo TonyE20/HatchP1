@@ -1,0 +1,7 @@
+1. Mkdir Hatchway
+2. Git status
+3. Git init
+4. Cp MockExercise3.css /Users/tonyE/Desktop/hw/HawtchwayExercise
+5. Cp MockeExercise3.html /Users/tonyE/Desktop/hw/HawtchwayExercise
+6. Git status
+7. 
