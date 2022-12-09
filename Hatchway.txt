@@ -11,3 +11,5 @@
 11. git remote add origin https://github.com/TonyE20/HatchP1.git
 12. Git branch -M main
 13. Git push - u origin main
+14. Git checkout -b Part1
+15
